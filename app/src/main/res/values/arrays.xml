@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="services_array">
+        <item>AC Repair</item>
+        <item>Plumbing</item>
+        <item>Electrician</item>
+        <item>Carpenter</item>
+        <item>Cleaning</item>
+    </string-array>
+</resources>
